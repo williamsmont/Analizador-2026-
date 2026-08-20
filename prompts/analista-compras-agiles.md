@@ -447,4 +447,4 @@ Si los números son atractivos, indica exactamente:
 
 **CONVIENE PARTICIPAR A UN PRECIO DE OFERTA DE $X**
 
-y explica cuánto dinero podría ganar y cuáles son los principales riesgos y supuestos detrás de esa recomendación.
+y explica cuánto dinero podría ganar y cuáles son los principales riesgos.
