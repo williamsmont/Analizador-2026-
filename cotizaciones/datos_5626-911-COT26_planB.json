@@ -23,5 +23,11 @@
     "nombre": "Caterin Sonnenburg",
     "cargo": "Ejecutivo de Cuentas",
     "movil": "+56 9 62737772"
+  },
+  "imagen": {
+    "path": "foto_bambu_h2d_combo.jpg",
+    "width": 180,
+    "height": 240,
+    "leyenda": "Imagen referencial: Bambu Lab H2D Combo con AMS 2 Pro"
   }
 }
