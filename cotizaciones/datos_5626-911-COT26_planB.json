@@ -1,0 +1,27 @@
+{
+  "numero": "1725-162-COT26",
+  "fecha": "Lunes 02 de Noviembre del 2026",
+  "cliente": {
+    "nombre": "Universidad de Valparaíso – Facultad de Ingeniería (Compra Ágil 5626-911-COT26)",
+    "rut": "60.921.000-1",
+    "direccion": "General Cruz #222, Valparaíso, Región de Valparaíso."
+  },
+  "items": [
+    {
+      "producto": "Impresora 3D multimaterial Bambu Lab H2D Combo con AMS 2 Pro",
+      "marca": "Bambu Lab",
+      "descripcion": "Impresora 3D FDM Bambu Lab H2D Combo, equipo nuevo, sellado de fábrica. Sistema de doble boquilla (dual nozzle) con cámara cerrada y calefaccionada. Volumen de impresión: 350 x 320 x 325 mm³ (una boquilla). Incluye unidad AMS 2 Pro (Automatic Material System) que permite imprimir con hasta 4 colores y materiales diferentes, con secado activo de filamento. Compatible con PLA, PETG, ABS, ASA, TPU, PA, PC y filamentos reforzados con fibra de carbono/vidrio. Pantalla táctil, cámara integrada, conectividad Wi-Fi/LAN y software Bambu Studio. Incluye accesorios de fábrica y garantía de 12 meses.",
+      "cantidad": 1,
+      "valorUnitario": 2689076
+    }
+  ],
+  "condiciones": {
+    "plazoEntrega": "15 días corridos a contar de la aceptación de la orden de compra. Valor ofertado es con IVA y despacho incluido a Facultad de Ingeniería UV, General Cruz #222, Valparaíso.",
+    "notaAdicional": "Se adjunta ficha técnica del producto. Garantía de 12 meses por defectos de fabricación. Producto nuevo, original, en su embalaje de fábrica."
+  },
+  "vendedor": {
+    "nombre": "Caterin Sonnenburg",
+    "cargo": "Ejecutivo de Cuentas",
+    "movil": "+56 9 62737772"
+  }
+}
